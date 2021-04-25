@@ -1,0 +1,11 @@
+.ge-container {
+    border: 1px solid red;
+    text-align: center;
+    margin-bottom: 2px;
+
+}
+
+.ge-stock{
+    color :rgb(30, 18, 145);
+    font-weight: bold;
+}
